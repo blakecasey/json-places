@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<style>
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto;
+      gap: 30px 10px;
+      padding: 5px;
+      background-color: rgb(231, 231, 231);
+    }
+    
+    .grid-item {
+      background-color: rgba(255, 255, 255, 0.8);
+      text-align: left;
+      margin: auto;
+      width: 500px;
+      padding: 5px;
+    }
+    .header{
+        text-align: left 100px;
+        padding: 100px;
+    }
+    #header1{
+    font-size: 3em;
+    }
+    #header2{
+        font-size: 1.2em;
+    }
+    #readmore{
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+    #readmore:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+    </style>
+<body>
+    <div class="header">
+        <h1 id="header1">Best Places to Visit in Arizona</h1>
+        <p id="header2">Arizona is home to incredible landscapes, lively cities, world-class spas and warm weather year-round, making the state ideal for a getaway any time of year. But to help you decide which Arizona destinations to spend your vacation in, U.S. News considered factors like the number of attractions, the availability of accommodations and the opinions of everyday travelers to pick the best places to visit in Arizona. Vote for your favorite spot below to help determine next year's list.</p>
+    </div>
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="place1.jpg" width="500px" height="300px">
+            <h1>Grand Canyon</h1>
+            <p>This massive natural wonder gives Arizona its nickname as The Grand Canyon State, and it's understandable why the attraction is a source of pride for the state. Former President Theodore Roosevelt was right when he said, "In the Grand Canyon, Arizona has a natural wonder which is in kind absolutely unparalleled throughout the rest of the world." Travelers can hike or ride mules around the North Rim or raft the Colorado River to explore this national park.</p>
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place1.html'"><b>Read More</b></button> 
+        </div>
+        <div class="grid-item">
+            <img src="place2.jpg" width="500px" height="300px">
+            <h1>Sedona</h1>
+            <p>Outdoor enthusiasts flock to this central Arizona town to enjoy its stunning scenery. Regularly described as one of the most beautiful places in America, Sedona dazzles with its famous red rocks and hiking trails (found in Red Rock State Park), as well as its vortexes. These unique rock formations are said to emit a healing energy from the earth, and it's an experience you have to feel for yourself to believe. The town is also home to numerous spas with Sedona-inspired specialty treatments, which are bound to leave you feeling relaxed and rejuvenated.</p>
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place2.html'"><b>Read More</b></button> 
+        </div>
+        <div class="grid-item">
+            <img src="place3.jpg" width="500px" height="300px">
+            <h1>Vermilion Cliffs National Monument</h1>
+            <p>Vermilion Cliffs National Monument's gorgeous rock formations draw hikers from around the world. Can't-miss landmarks here include The Wave in Coyote Buttes North and White Pocket in the Paria Canyon. Keep in mind, though, that both areas require permits for hiking and camping. These permits – which are given to as few as 20 people per day (depending on the region and type of visit) by Arizona's Bureau of Land Management – ensure travelers can enjoy the monument without rubbing elbows with hordes of tourists.</p>
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place3.html'"><b>Read More</b></button> 
+        </div>
+        <div class="grid-item">
+            <img src="place4.jpg" width="500px" height="300px">
+            <h1>Montezuma Castle National Monument</h1>
+            <p>Often compared to a high-rise apartment building, Montezuma Castle National Monument features a five-story, 20-room design that's built into the cliffs of central Arizona's Verde Valley. Although the pueblo structures were named after an Aztec emperor, the dwellings were formerly inhabited by the Sinagua Indian Tribe. Visitors can learn more about Sinagua culture at the monument's museum before they trek the area's trails to Montezuma Castle and Montezuma Well. But remember, the monument does not permit entry into the dwellings due to their fragile state.</p>
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place4.html'"><b>Read More</b></button> 
+        </div>
+        <div class="grid-item">
+            <img src="place5.jpg" width="500px" height="300px">
+            <h1>Tucon</h1>
+            <p>With an average of more than 350 days of sunshine per year, Tucson draws sun-seekers in droves. When you're not lounging by the pool, you can spot native animals like coyotes and prairie dogs at the 98-acre Arizona-Sonora Desert Museum or take a drive along the Mount Lemmon Scenic Byway for stunning photo-ops. When you're ready to satiate your appetite, take advantage of all this UNESCO Creative City of Gastronomy has to offer. Tucson's location less than 70 miles north of the U.S.-Mexico border means you'll find plenty of restaurants serving authentic Mexican eats.</p> 
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place5.html'"><b>Read More</b></button> 
+        </div>
+        <div class="grid-item">
+            <img src="place6.jpg" width="500px" height="300px">
+            <h1>Petrified Forest National Park</h1>
+            <p>If you want to spend your next vacation outdoors, head to Petrified Forest National Park. In this more than 200,000-acre park, you'll discover one of the world's largest concentrations of petrified wood, plus rocky cliffs and animal fossils. To make the most of your time here, plan on incorporating several activities into your visit. Popular in-park pursuits include hiking, horseback riding and biking. Don't forget to also leave time for checking out some of the park's historical exhibits, such as those found at the Rainbow Forest Museum and the Painted Desert Inn National Historic Landmark.</p>
+            <button id ="readmore" onclick="window.location.href='/Users/bcasey206/Documents/blake/Json/place6.html'"><b>Read More</b></button> 
+        </div>
+      </div>
+
+    <div class="output"></div>
+    <script src="script.js"></script>
+</body>
+</html>

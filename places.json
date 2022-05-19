@@ -1,0 +1,32 @@
+[
+    {
+        "name": "State Farm Stadium",
+        "address": "1 Cardinals Dr, Glendale, AZ 85305",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.9908055602446!2d-112.2647479847987!3d33.52762468075194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b40484caa40dd%3A0xb9c497aa9569305b!2sState%20Farm%20Stadium!5e0!3m2!1sen!2sus!4v1647894964883!5m2!1sen!2sus"
+    },
+    {
+        "name": "Raising Cane's Chicken Fingers",
+        "address": "7930 W Bell Rd, Glendale, AZ 85308",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.702358278644!2d-112.23202438465185!3d33.63895868072038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b68259dd08665%3A0x9c64025dd4f8f29!2sRaising%20Cane&#39;s%20Chicken%20Fingers!5e0!3m2!1sen!2sus!4v1647895293428!5m2!1sen!2sus" 
+    },
+    {
+        "name": "Chick-fil-a",
+        "address": "16657 N 83rd Ave, Peoria, AZ 85382",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26573.61925296482!2d-112.24734529463242!3d33.638957427529874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6828cc700e3f%3A0xa422b52f8d48fdfa!2sChick-fil-A!5e0!3m2!1sen!2sus!4v1647895392410!5m2!1sen!2sus"
+    },
+    {
+        "name": "Chipotle Mexican Grill",
+        "address": "16680 N 83rd Ave Ste 101, Peoria, AZ 85382",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106340.83440496863!2d-112.2927624902203!3d33.60138441736976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6828bb70dee9%3A0x34206d6f1bbda2d3!2sChipotle%20Mexican%20Grill!5e0!3m2!1sen!2sus!4v1647895465988!5m2!1sen!2sus"
+    },
+    {
+        "name": "Moutainside Fitness",
+        "address": "2501 W Happy Valley Rd Suite 30, Phoenix, AZ 85085",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.0174766826926!2d-112.11712648465016!3d33.70849668070093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b65946cff3e8b%3A0x5f505f4eaffe2d04!2sMountainside%20Fitness%20Happy%20Valley!5e0!3m2!1sen!2sus!4v1647895543975!5m2!1sen!2sus"
+    },
+    {
+        "name": "Arrowhead Towne Center",
+        "address": "7700 W Arrowhead Towne Center, Glendale, AZ 85308",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.584622337372!2d-112.22753798465173!3d33.642010680719515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b683b281d6ab1%3A0xd082d213bc05cf08!2sArrowhead%20Towne%20Center!5e0!3m2!1sen!2sus!4v1647895593859!5m2!1sen!2sus"
+    }
+]
